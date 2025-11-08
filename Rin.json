@@ -3,6 +3,27 @@
   "description": "RIN - Cô gái siu nhơn~",
   "artist": "Petos",
   "author": "Petos",
-  "cover": "",
-  "chapters": {}
+  "cover": "https://cdn.save.moe/b/GQokv4.jpeg?dl=1",
+  "chapters": {
+    "1": {
+      "title": "1",
+      "volume": "",
+      "last_updated": "1762592300",
+      "groups": {
+        "Cà Rốt Nhảm Nhí": [
+          "https://cdn.save.moe/b/GQokv4.jpeg?dl=1",
+          "https://cdn.save.moe/b/zjRXYGq.jpeg?dl=1",
+          "https://cdn.save.moe/b/txVXnYN.jpeg?dl=1",
+          "https://cdn.save.moe/b/YAtDPzv.jpeg?dl=1",
+          "https://cdn.save.moe/b/JPRb1lB.jpeg?dl=1",
+          "https://cdn.save.moe/b/yeC9oB7n.jpeg?dl=1",
+          "https://cdn.save.moe/b/208PCn.jpeg?dl=1",
+          "https://cdn.save.moe/b/aCZZDjj.jpeg?dl=1",
+          "https://cdn.save.moe/b/jkqdT3.png?dl=1",
+          "https://cdn.save.moe/b/I7m3l0mN.png?dl=1",
+          "https://cdn.save.moe/b/UcoY41j.jpeg?dl=1"
+        ]
+      }
+    }
+  }
 }
