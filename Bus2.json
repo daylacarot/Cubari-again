@@ -3,7 +3,7 @@
   "description": "Thị trấn ba nghìn người\n1 chuyến xe buýt\n2 người quen cũ \n— và 1 thứ tình cảm chưa kịp gọi tên, nhẹ như trời xanh",
   "artist": "Toyobayashi Sakane",
   "author": "Toyobayashi Sakane",
-  "cover": "https://cdn.save.moe/b/r2xgCTkQ.jpeg?dl=1",
+  "cover": "https://cdn.save.moe/b/blm1YCQ.png?dl=1",
   "chapters": {
     "1": {
       "title": "1",
@@ -36,6 +36,16 @@
           "https://cdn.save.moe/b/1wNYefbj.png?dl=1",
           "https://cdn.save.moe/b/RFPVJ7.png?dl=1",
           "https://cdn.save.moe/b/e7fnrHx.png?dl=1"
+        ]
+      }
+    },
+    "2": {
+      "title": "2",
+      "volume": "",
+      "last_updated": "1762922126",
+      "groups": {
+        "Cà Rốt Nhảm Nhí": [
+          ""
         ]
       }
     }
