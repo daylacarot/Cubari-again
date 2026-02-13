@@ -1,9 +1,9 @@
 {
   "title": "Vợ tôi là Quỷ vương",
-  "description": "",
+  "description": "Túm lại nội dung như ảnh bìa =)))",
   "artist": "Peach",
   "author": "Peach",
-  "cover": "",
+  "cover": "https://cdn.save.moe/b/zy01p2u.jpeg?dl=1",
   "chapters": {
     "0": {
       "title": "0",
@@ -127,6 +127,18 @@
       "last_updated": "1770990634",
       "groups": {
         "Cà Rốt Nhảm Nhí": [
+          "https://cdn.save.moe/b/2XWrTjh.jpeg?dl=1",
+          "https://cdn.save.moe/b/Q4rNtE.jpeg?dl=1",
+          "https://cdn.save.moe/b/zy01p2u.jpeg?dl=1"
+        ]
+      }
+    },
+    "6": {
+      "title": "6",
+      "volume": "",
+      "last_updated": "1770991046",
+      "groups": {
+        "Cà Rốt Nhảm Nhí": [
           "https://cdn.save.moe/b/Hq4ItJw.jpeg?dl=1",
           "https://cdn.save.moe/b/UsHlu.jpeg?dl=1",
           "https://cdn.save.moe/b/ra4abh.jpeg?dl=1",
@@ -138,7 +150,8 @@
           "https://cdn.save.moe/b/YIJAH8.jpeg?dl=1",
           "https://cdn.save.moe/b/55xWmJ.jpeg?dl=1",
           "https://cdn.save.moe/b/AwW5k.jpeg?dl=1",
-          "https://cdn.save.moe/b/rY2T1Q.jpeg?dl=1"
+          "https://cdn.save.moe/b/rY2T1Q.jpeg?dl=1",
+          "https://cdn.save.moe/b/BrVILs.png?dl=1"
         ]
       }
     },
@@ -210,6 +223,21 @@
       "groups": {
         "Cà Rốt Nhảm Nhí": [
           "https://cdn.save.moe/b/cTO6h.jpeg?dl=1"
+        ]
+      }
+    },
+    "10.5": {
+      "title": "Bonus Art",
+      "volume": "",
+      "last_updated": "1770991122",
+      "groups": {
+        "Cà Rốt Nhảm Nhí": [
+          "https://cdn.save.moe/b/t3LiQ.png?dl=1",
+          "https://cdn.save.moe/b/l59Kh.jpeg?dl=1",
+          "https://cdn.save.moe/b/P52eUu.jpeg?dl=1",
+          "https://cdn.save.moe/b/MgZgE.png?dl=1",
+          "https://cdn.save.moe/b/m0j2r.jpeg?dl=1",
+          "https://cdn.save.moe/b/FghBk.jpeg?dl=1"
         ]
       }
     }
